@@ -10,6 +10,7 @@ const formatValue = (
 const getLength = (value: string | any[]): number => {
   return value.length;
 };
+
 class Person {
   name: string;
   age: number;
